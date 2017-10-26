@@ -10,6 +10,8 @@ namespace Lab1ConsoleApplication
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World From IS 401");
+
             int myAge = 20;
             double myGPA = 3.5;
             bool likeCIS235 = true;
